@@ -1,4 +1,6 @@
 //Cruz Alegria Valeria Montserrat 
+//Comprobar cual valor es mayor
+
 #include <stdio.h>
 
 void main()
