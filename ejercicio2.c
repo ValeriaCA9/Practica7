@@ -1,5 +1,5 @@
 //Cruz Alegria Valeria Montserrat
-
+//Comprobar valor par o impar
 #include <stdio.h>
 
 void main()
